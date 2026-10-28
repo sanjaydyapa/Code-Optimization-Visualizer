@@ -38,4 +38,4 @@ This project is a web-based educational tool for demonstrating compiler optimiza
 
 ## Project goal
 
-The application aligns with the project abstract by making compiler optimization concepts interactive and easier for students to learn.
+The application makes compiler optimization concepts interactive and easier for students to learn.
